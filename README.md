@@ -2,9 +2,11 @@
 
 Written in Python, txtToExcel is a small program that pulls keywords from text files and exports it to an excel document.
 
-Libraries used:
-  tkinter [Python GUI]
-  xlsxwriter [Creating Excel Documents]
+Libraries used: <br>
+  <ul>
+    <li>tkinter [Python GUI]</li>
+    <li>xlsxwriter [Creating Excel Documents]</li>
+  </ul>
   
  Documentation:
   Update soon
